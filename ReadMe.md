@@ -1,4 +1,4 @@
-# VMLCB
+# VMLCB (A VM Locator based on costs)
 This is a proposed algorithm, which determines the VMs locations based on their costs in internal resources, external resources and the network costs (ISP, cloud's traffic costs).
 ___
 Network costs are generated randomly.
